@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/suleymansamand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suleymansamand" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suleyman-samandov-0ab4221b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suleyman-samandov-0ab4221b3/" height="30" width="40" /></a>
-<a href="[https://kaggle.com/https://www.kaggle.com/sleymansmndov](https://www.kaggle.com/sleymansmndov/code)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sleymansmndov" height="30" width="40" /></a>
+<a href="[https://www.kaggle.com/sleymansmndov/code](https://www.kaggle.com/sleymansmndov/code)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sleymansmndov/codesmndov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
